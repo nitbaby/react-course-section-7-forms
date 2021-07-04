@@ -1,3 +1,10 @@
+# Image Search app
+
+You can search for the images using a keyword with this app. Images are pulled from https://unsplash.com/.
+
+Project deals with React forms, making API calls using axios, usage of React Ref to access and update DOM, CSS Grid system etc.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
